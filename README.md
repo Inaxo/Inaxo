@@ -1,7 +1,7 @@
 # Hi, I'm Olivier aka Inaxo 🙋‍♂️ 
 
 <a href='https://github.com/shivamkapasia0' target="_blank"><img alt='cplusplus' src='https://img.shields.io/badge/Certified_ C++ Programmer-100000?style=for-the-badge&logo=cplusplus&logoColor=000000&labelColor=FFFFFF&color=000000'/></a>
-<a href='https://github.com/shivamkapasia0' target="_blank"><img alt='javascript' src='https://img.shields.io/badge/Certified_JavaScript Developer-100000?style=for-the-badge&logo=javascript&logoColor=8C8818&labelColor=151515&color=969447'/></a>
+<a href='https://github.com/shivamkapasia0' target="_blank"><img alt='javascript' src='https://img.shields.io/badge/Certified_JavaScript Programmer-100000?style=for-the-badge&logo=javascript&logoColor=8C8818&labelColor=151515&color=969447'/></a>
 
 <a href='https://github.com/shivamkapasia0' target="_blank"><img alt='mongodb' src='https://img.shields.io/badge/Database_Programmer & Admin-100000?style=for-the-badge&logo=mongodb&logoColor=47A248&labelColor=151515&color=0FCD32'/></a>
 <a href='https://github.com/shivamkapasia0' target="_blank"><img alt='linux' src='https://img.shields.io/badge/Linux_User-100000?style=for-the-badge&logo=linux&logoColor=FCC624&labelColor=000000&color=90A630'/></a>
