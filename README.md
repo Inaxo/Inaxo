@@ -1,4 +1,4 @@
-# Hi, I'm Olivier aka Inaxo 🙋‍♂️ 
+# Hi, I'm Oliwier aka Inaxo 🙋‍♂️ 
 ![image](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
 ![image](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 ![image](https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white)
