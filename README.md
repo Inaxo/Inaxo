@@ -32,8 +32,7 @@
 
 ---
 
-### 😸 About
-
+### 😸 O mnie
 <!-- ABOUT:START -->
 I am a programmer who enjoys reading books and playing chess in my free time. Currently, I specialize in creating customized CMS systems and APIs based on clients' needs. Throughout my career, I have gained extensive experience in various programming languages, including C++, Python, and Java, among others. I find great satisfaction in solving complex problems and developing efficient and scalable solutions. Additionally, I am constantly expanding my knowledge through continuous learning and experimenting with new technologies. Outside of work, I am an avid reader, and I also enjoy spending time outdoors, hiking and exploring new places.
 <!-- ABOUT:END -->
