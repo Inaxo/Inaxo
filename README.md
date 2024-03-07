@@ -7,8 +7,8 @@
 ![image](https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white)
 ## I'm a young programmer who's achieving their goals.
 
-- 📖 I’m currently learning Modern C++ and React.js 
-- 🎆 2023 Goals: Learn more about web API models & Laravel
+- 📖 I’m currently learning Laravel & Livewire
+- 🎆 2024 Goals: Czajkowski will fuck off from my readme
 - 👯 I’m looking to collaborate with other programmers
 - ⏩ Feel free to message me
 
