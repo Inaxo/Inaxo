@@ -8,7 +8,7 @@
 ## I'm a young programmer who's achieving their goals.
 
 - 📖 I’m currently learning Laravel & Livewire
-- 🎆 2024 Goals: Czajkowski will fuck off from my readme
+- 🎆 2024 Goals: Learn more about Interia.js and Svelte
 - 👯 I’m looking to collaborate with other programmers
 - ⏩ Feel free to message me
 
