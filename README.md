@@ -1,41 +1,76 @@
-# Hi, I'm Oliwier aka Inaxo 🙋‍♂️ 
-![image](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
-![image](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-![image](https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white)
-![image](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![image](https://img.shields.io/badge/Chakra--UI-319795?style=for-the-badge&logo=chakra-ui&logoColor=white)
-![image](https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white)
-## I'm a young programmer who's achieving their goals.
+# ✌️ Hey there, I'm Oliwier! ✌️
+![image](https://img.shields.io/badge/Vue.js-4FC08D.svg?style=for-the-badge&logo=vuedotjs&logoColor=white)
+![image](https://img.shields.io/badge/Inertia-9553E9.svg?style=for-the-badge&logo=Inertia&logoColor=white)
+![image](https://img.shields.io/badge/Laravel-FF2D20.svg?style=for-the-badge&logo=Laravel&logoColor=white)
+![image](https://img.shields.io/badge/Tailwind%20CSS-06B6D4.svg?style=for-the-badge&logo=Tailwind-CSS&logoColor=white)
+![image](https://img.shields.io/badge/Livewire-4E56A6.svg?style=for-the-badge&logo=Livewire&logoColor=white)
+![image](https://img.shields.io/badge/Alpine.js-8BC0D0.svg?style=for-the-badge&logo=alpinedotjs&logoColor=black)
 
-- 📖 I’m currently learning Laravel & Livewire
-- 🎆 2024 Goals: Learn more about Interia.js and Svelte
-- 👯 I’m looking to collaborate with other programmers
-- ⏩ Feel free to message me
+## I'm Architect of the digital unknown. Navigating the shadows of the web.
+<br>
+<table>
+  <tr>
+    <td width="50%" valign="top">
 
-### Connect with me:
+```php
+<?php
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/oliwier-g%C5%82owala-008b72237/">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-    <a href="https://www.instagram.com/oli_glowala/">
-    <img src="https://skillicons.dev/icons?i=instagram" />
-  </a>
+namespace OliwierDev;
+
+use Illuminate\Support\Collection;
+
+class SoftwareEngineer
+{
+    public string $name = "Oliwier";
+    public string $role = "Laravel Developer";
+    public Collection $skills;
+    public array $languages = ['pl_PL', 'en_US'];
+
+    public function __construct()
+    {
+      $this->skills = collect([
+        'PHP', 'Laravel', 'Inertia.js', 'Livewire',
+        'Tailwind CSS', 'Alpine.js', 'Vue.js', 'MySQL',
+        'REST APIs', 'GraphQL', 'Unit Testing', 'Git',
+        'CI/CD', 'Docker', 'AWS', 'Nginx'
+        ]);
+    }
+
+}
+
+$me = new SoftwareEngineer();
+```
+</td>
+   <td width="50%" valign="top">
+     <p>
+      🧑‍💻 Full-time Laravel Developer  </p>
+        <p>
+      🎨 UI/UX enthusiast – pixels fear me, Figma respects me  
+        </p>
+        <p>
+      🚀 Astro astronaut – building sites that load faster than your brain can process  
+        </p>
+     <p>
+      📈 SEO whisperer – because what's the point of a cool site if no one finds it?  
+     </p>
+     <p>
+      ⚙️ Automation addict – if it’s boring, I automate it  
+     </p>
+          <p>
+      🌐 Half human, half php artisan
+          </p>
+     <p>
+      🧩 Professional problem solver & code wizard – yes, I’ve got a wand (it’s a keyboard)
 </p>
-
-### Languages and Tools:
-
-<p align="left">
-    <img src="https://skillicons.dev/icons?i=cpp,vue,javascript,react,laravel,nodejs,py,visualstudio,qt,eclipse,firebase,linux,html,css,php" />
-    </p>
-<br />
-
----
-
-### 😸 
-<!-- ABOUT:START -->
-I am a programmer who enjoys reading books and playing chess in my free time. Currently, I specialize in creating customized CMS systems and APIs based on clients' needs. Throughout my career, I have gained extensive experience in various programming languages, including C++, Python, and Java, among others. I find great satisfaction in solving complex problems and developing efficient and scalable solutions. Additionally, I am constantly expanding my knowledge through continuous learning and experimenting with new technologies. Outside of work, I am an avid reader, and I also enjoy spending time outdoors, hiking and exploring new places.
-<!-- ABOUT:END -->
-
+     <p>
+       🌍 SPA master – because who needs page reloads when you have a perfect single-page app?
+</p>
+     <p>
+       💡 Creative strategist – crafting brand stories so good, even your competition will want to buy your product 🎤
+     </p>
+<p>
+☕ Coffee is my debugger – and yes, it’s code that needs fixing, not me
+  </p>
+     </td>
 ---
 
