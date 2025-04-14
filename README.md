@@ -116,3 +116,9 @@ $me = new SoftwareEngineer();
 ![image](https://img.shields.io/badge/PhpStorm-000000.svg?style=for-the-badge&logo=PhpStorm&logoColor=white)
 ![image](https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badge&logo=Figma&logoColor=white)
 ![image](https://img.shields.io/badge/Sketch-F7B500.svg?style=for-the-badge&logo=Sketch&logoColor=black)
+
+
+<br>
+<h2>🏆 &nbsp; GitHub Trophies</h2>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=inaxo)](https://github.com/ryo-ma/github-profile-trophy)
