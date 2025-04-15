@@ -35,10 +35,13 @@ class SoftwareEngineer
         'CI/CD', 'Docker', 'AWS', 'Nginx'
         ]);
     }
-
+    public function sayHi(): void
+    {
+        echo "Hi, I'm {$this->name}, a {$this->role}!";
+    }
 }
-
 $me = new SoftwareEngineer();
+$me->sayHi();
 ```
 </td>
    <td width="50%" valign="top">
