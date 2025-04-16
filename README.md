@@ -124,4 +124,4 @@ $me->sayHi();
 <br>
 <h2>🏆 &nbsp; GitHub Trophies</h2>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Inaxo)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Inaxo&margin-w=10&margin-h=10)](https://github.com/ryo-ma/github-profile-trophy)
