@@ -6,7 +6,7 @@
 ![image](https://img.shields.io/badge/Livewire-4E56A6.svg?style=for-the-badge&logo=Livewire&logoColor=white)
 ![image](https://img.shields.io/badge/Alpine.js-8BC0D0.svg?style=for-the-badge&logo=alpinedotjs&logoColor=black)
 
-## I'm Architect of the digital unknown. Navigating the shadows of the web.
+## I'm an architect of the digital unknown, navigating the shadows of the web.
 <br>
 <table>
   <tr>
